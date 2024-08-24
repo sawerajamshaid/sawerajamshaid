@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p>My name is sawera, i want to become python develper</p>
 <!--
 **sawerajamshaid/sawerajamshaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
