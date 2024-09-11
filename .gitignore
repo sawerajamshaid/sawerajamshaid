@@ -1,4 +1,27 @@
-# Byte-compiled / optimized / DLL files
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<<device-width>>, initial-scale=1.0">
+    <title>my docoment</title>
+</head>
+<body><h1 style="color: brown;">this is heading</h1>
+    <P style="color: beige;">
+        The meaning of WETHER is a male sheep.<br>
+         castrated before sexual maturity; also : a castrated male goat. <br>
+         How the Wether Came to Be a Trendsetter.
+
+    </P>
+    <p>
+    
+     
+     <a href="https://www.google.com/"> Google</a>
+     <a href="https://code.visualstudio.com/download"> Downland vs code</a>
+     <a href="https://www.youtube.com/">open youtube</a>
+     <a href="https://www.w3schools.com/">w3schools</a>
+     </p>
+</body>
+</html># Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
