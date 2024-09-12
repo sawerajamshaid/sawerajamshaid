@@ -6,7 +6,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> my Document</title><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> my Document</title>
+    <style>
+        p{
+            background-color: hotpink;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://unsplash.com/photos/brown-tiger-close-up-photo-8Myh76_3M2U.jpg">
+    P{
+      AI depermentGet the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what's popular in gaming, ...
+    </b>  The <b>BS Artificial Intelligence program </b> at Superior University.<br/> 
+        is designed for<small> passionate</small> about advancing.<br/>
+         <i>technology</i> through AI and machine learning.
+         Get the official <u>YouTube</u> app on Android phones and tablets.<br/>
+         <i></i> See what the world is watching -- from <br/>
+          the hottest<big> music videos</big> to what's popular in gaming, ...
+
+    }
+</body>
+</html>
+
     <style>
         p{
             background-color: hotpink;
