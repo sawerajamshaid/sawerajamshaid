@@ -12,7 +12,19 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first html page</title>
+</head>
+<body>
+    <h1>this is a first heading</h1>
+    <a href="https://www.youtube.com/@CodeBeauty/search" >code Code Beauty</a>
+</body>
+</html>
+
 - ⚡ Fun fact: ...<!DOCTYPE html>
 <html lang="en">
 <head>
