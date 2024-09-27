@@ -1,5 +1,26 @@
 <!DOCTYPE html>
-<html lang="en"><!DOCTYPE html>
+<html lang="en"><!DOCTYPE html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first html page</title>
+</head>
+<body>
+    <h1>this is a first heading</h1>
+    <a href="https://www.youtube.com/@CodeBeauty/search" >code Code Beauty</a><br>
+        <a href="https://www.google.com/">Google</a> <br>
+    <a  target= _blank href="https://www.wscubetech.com/">w3cubetech</a><br>
+    <a href="https://www.instagram.com/tuahajalil/?hl=en">tuahajalil</a> <br>
+
+    <img width="150px" src="https://images.unsplash.com/photo-1666389785207-79fd9a364761?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+    <img width="170px" src="https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img width="150px" src="https://images.unsplash.com/photo-1727224280190-d7e55acb068e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+
+
+</body>
+</html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
