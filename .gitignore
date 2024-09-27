@@ -6,7 +6,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>my first html page</title>
 </head>
+<body><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h{
+            background-color: blueviolet;
+            font-size: 20px;
+        }
+        p{
+            background-attachment: fixed;
+            background-color: brown;
+        }
+    </style>
+</head>
 <body>
+    <h1> this is heading</h1>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br>
+         Earum dolorem est nam ratione illum aliquid reiciendis.<br>
+          molestias voluptates eius vero iusto animi ipsa libero reprehenderit.<br>
+           nemo dolore optio distinctio recusandae?
+
+
+    </p>
+    <p style="color: hotpink;">
+        Hi i am sawera_jamshaid
+        i am saring css
+
+    </p>
+</body>
+</html>
     <h1>this is a first heading</h1>
     <a href="https://www.youtube.com/@CodeBeauty/search" >code Code Beauty</a><br>
         <a href="https://www.google.com/">Google</a> <br>
