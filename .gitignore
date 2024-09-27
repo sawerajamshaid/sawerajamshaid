@@ -222,7 +222,31 @@ ipython_config.py
 
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
-#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   This is especially recommended for binary packages to ensure reproducibility, and is more<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title > my page</title>
+
+</head>
+<body>
+    <h1 style="background-color: rgb(0, 255, 64);"> this is first heading</h1>
+<p style="color: blueviolet;">
+    Lorem ipsum dolor sit amet<br>
+     consectetur adipisicing elit.<br>
+     Officiis esse asperiores enim ratione dolores.
+</p>
+<img src="https://images.unsplash.com/photo-1727087312697-13997c39c49c?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<a="https://www.google.com/"> Google</a>
+<p style="background-color: blue;">
+    this is a paragrap 
+    my name sawera jamshaid
+    i an try learing css
+</p>
+    
+</body>
+</html>
 #   commonly ignored for libraries.
 #   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
 #poetry.lock
